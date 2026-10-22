@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<style>
+text{font-family:"Segoe UI",Arial,sans-serif;font-weight:700}
+.t{animation:float 3s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+.title{fill:#e6edf3;font-size:22px}
+</style>
+<rect width="900" height="260" fill="#0d1117" rx="16"/>
+<text x="450.0" y="40" text-anchor="middle" class="title">Tech Stack &amp; Tools</text>
+<g class="t" style="animation-delay:0.0s"><rect x="100" y="70" width="110" height="70" rx="18" fill="#e34f26" fill-opacity="0.15" stroke="#e34f26" stroke-opacity="0.6"/><text x="155" y="111" text-anchor="middle" fill="#e34f26" font-size="18">HTML</text></g>
+<g class="t" style="animation-delay:0.3s"><rect x="250" y="70" width="110" height="70" rx="18" fill="#f0b90b" fill-opacity="0.15" stroke="#f0b90b" stroke-opacity="0.6"/><text x="305" y="111" text-anchor="middle" fill="#f0b90b" font-size="18">CSS</text></g>
+<g class="t" style="animation-delay:0.6s"><rect x="400" y="70" width="110" height="70" rx="18" fill="#a855f7" fill-opacity="0.15" stroke="#a855f7" stroke-opacity="0.6"/><text x="455" y="111" text-anchor="middle" fill="#a855f7" font-size="18">JS</text></g>
+<g class="t" style="animation-delay:0.8999999999999999s"><rect x="550" y="70" width="110" height="70" rx="18" fill="#22c1a0" fill-opacity="0.15" stroke="#22c1a0" stroke-opacity="0.6"/><text x="605" y="111" text-anchor="middle" fill="#22c1a0" font-size="18">MySQL</text></g>
+<g class="t" style="animation-delay:1.2s"><rect x="700" y="70" width="110" height="70" rx="18" fill="#4f7cff" fill-opacity="0.15" stroke="#4f7cff" stroke-opacity="0.6"/><text x="755" y="111" text-anchor="middle" fill="#4f7cff" font-size="18">PHP</text></g>
+<g class="t" style="animation-delay:0.15s"><rect x="100" y="160" width="110" height="70" rx="18" fill="#ff4d4d" fill-opacity="0.15" stroke="#ff4d4d" stroke-opacity="0.6"/><text x="155" y="201" text-anchor="middle" fill="#ff4d4d" font-size="18">Laravel</text></g>
+<g class="t" style="animation-delay:0.44999999999999996s"><rect x="250" y="160" width="110" height="70" rx="18" fill="#22c55e" fill-opacity="0.15" stroke="#22c55e" stroke-opacity="0.6"/><text x="305" y="201" text-anchor="middle" fill="#22c55e" font-size="18">Python</text></g>
+<g class="t" style="animation-delay:0.75s"><rect x="400" y="160" width="110" height="70" rx="18" fill="#f97316" fill-opacity="0.15" stroke="#f97316" stroke-opacity="0.6"/><text x="455" y="201" text-anchor="middle" fill="#f97316" font-size="18">Git</text></g>
+<g class="t" style="animation-delay:1.0499999999999998s"><rect x="550" y="160" width="110" height="70" rx="18" fill="#38bdf8" fill-opacity="0.15" stroke="#38bdf8" stroke-opacity="0.6"/><text x="605" y="201" text-anchor="middle" fill="#38bdf8" font-size="18">GitHub</text></g>
+<g class="t" style="animation-delay:1.3499999999999999s"><rect x="700" y="160" width="110" height="70" rx="18" fill="#14b8a6" fill-opacity="0.15" stroke="#14b8a6" stroke-opacity="0.6"/><text x="755" y="201" text-anchor="middle" fill="#14b8a6" font-size="18">Kali</text></g>
+</svg>
