@@ -34,7 +34,7 @@
 <h3 align="center">Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://stats.pphat.top/icons?name=html,css,js,php,mysql,tailwindcss,laravel,bootstrap,react,flutter,github&effect=wave&columns=6" />
+  <img src="assets/techstack.svg" alt="Tech Stack" width="600"/>
 </p>
 
 <br>
